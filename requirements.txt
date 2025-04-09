@@ -5,3 +5,5 @@ matplotlib
 huggingface_hub
 mss
 opencv-python
+triton
+sageattention
